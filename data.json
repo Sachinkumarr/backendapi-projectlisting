@@ -1,0 +1,205 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Google Pixel 6 Pro",
+      "data": {
+        "color": "Cloudy White",
+        "capacity": "128 GB"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Apple iPhone 12 Mini, 256GB, Blue",
+      "data": null
+    },
+    {
+      "id": "3",
+      "name": "Apple iPhone 12 Pro Max",
+      "data": {
+        "color": "Cloudy White",
+        "capacity GB": 512
+      }
+    },
+    {
+      "id": "4",
+      "name": "Apple iPhone 11, 64GB",
+      "data": {
+        "price": 389.99,
+        "color": "Purple"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Samsung Galaxy Z Fold2",
+      "data": {
+        "price": 689.99,
+        "color": "Brown"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Apple AirPods",
+      "data": {
+        "generation": "3rd",
+        "price": 120
+      }
+    },
+    {
+      "id": "7",
+      "name": "Apple MacBook Pro 16",
+      "data": {
+        "year": 2019,
+        "price": 1849.99,
+        "CPU model": "Intel Core i9",
+        "Hard disk size": "1 TB"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Apple Watch Series 8",
+      "data": {
+        "Strap Colour": "Elderberry",
+        "Case Size": "41mm"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Beats Studio3 Wireless",
+      "data": {
+        "Color": "Red",
+        "Description": "High-performance wireless noise cancelling headphones"
+      }
+    },
+    {
+      "id": "10",
+      "name": "Apple iPad Mini 5th Gen",
+      "data": {
+        "Capacity": "64 GB",
+        "Screen size": 7.9
+      }
+    },
+    {
+      "id": "11",
+      "name": "Apple iPad Mini 5th Gen",
+      "data": {
+        "Capacity": "254 GB",
+        "Screen size": 7.9
+      }
+    },
+    {
+      "id": "12",
+      "name": "Apple iPad Air",
+      "data": {
+        "Generation": "4th",
+        "Price": "419.99",
+        "Capacity": "64 GB"
+      }
+    },
+    {
+      "id": "13",
+      "name": "Apple iPad Air",
+      "data": {
+        "Generation": "4th",
+        "Price": "519.99",
+        "Capacity": "256 GB"
+      }
+    },
+    {
+      "name": "Nothing 3a",
+      "data": {
+        "color": "white",
+        "capacity": "256 GB"
+      },
+      "id": "n2qyKzV"
+    },
+    {
+      "name": "Vivo X11",
+      "data": {
+        "color": "Charcoal Black",
+        "capacity": "1 TB"
+      },
+      "id": "zRGnvwC"
+    },
+    {
+      "name": "One Plus 13",
+      "data": {
+        "color": "Green",
+        "capacity": "128 GB"
+      },
+      "id": "3CvMpBR"
+    },
+    {
+      "name": "data",
+      "data": {
+        "color": "yello",
+        "capacity": "64 gb"
+      },
+      "id": "27B1d95"
+    },
+    {
+      "name": "hp 349xiris",
+      "data": {
+        "color": "Space Gray",
+        "capacity": "1 TB"
+      },
+      "id": "mYO1Dok"
+    },
+    {
+      "name": "gola",
+      "data": {
+        "color": "brown",
+        "capacity": "32 GB"
+      },
+      "id": "vNNwIcw"
+    },
+    {
+      "name": "mango",
+      "data": {
+        "color": "yello",
+        "capacity": "100 Ton"
+      },
+      "id": "YzW9dp8"
+    },
+    {
+      "name": "curd",
+      "data": {
+        "color": "white",
+        "capacity": "1 kg"
+      },
+      "id": "HjYOXgO"
+    },
+    {
+      "name": "momos",
+      "data": {
+        "color": "off white",
+        "capacity": "12 pieces"
+      },
+      "id": "iL_q7IM"
+    },
+    {
+      "name": "any",
+      "data": {
+        "color": "any",
+        "capacity": "34"
+      },
+      "id": "3W3dMQW"
+    },
+    {
+      "name": "any",
+      "data": {
+        "color": "any",
+        "capacity": "23"
+      },
+      "id": "J9YR02b"
+    },
+    {
+      "name": "ver",
+      "data": {
+        "color": "ver",
+        "capacity": "32"
+      },
+      "id": "9D3B9KP"
+    }
+  ]
+}
